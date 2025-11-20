@@ -1,6 +1,6 @@
 using System.Windows;
 
-namespace WpfDemoTemplate
+namespace WPF_Episode13_GroupBox
 {
     public partial class MainWindow : Window
     {
